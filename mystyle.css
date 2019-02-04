@@ -1,3 +1,12 @@
+header{
+	background-color: tomato;
+}
 nav {
-	background-color: black;
+	background-color: khaki;
+}
+section {
+	background-color: blue;
+}
+Footer {
+	background-color: peru;
 }
